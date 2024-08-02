@@ -1,0 +1,6 @@
+dnspython==2.6.1
+pandas==2.2.1
+Pyrebase4==4.7.1
+tensorflow==2.14.0
+tensorflow_macos==2.6.0
+tldextract==5.1.1
